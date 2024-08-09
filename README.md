@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @GNaD13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Dang Vu 👨‍💻
+- 🌱 I graduated from Ha Noi University Of Science And Technology.
+- 💡 I'm a Blockchain Engineer, working on Cosmos SDK, IBC, Cosmwasm
+- 🥇 Languages: Vietnamese, English
 
-<!---
-GNaD13/GNaD13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Languages
+[![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
+[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
+[![Rust](https://img.shields.io/badge/-Rust-fff?&logo=Rust)](https://github.com/adamalston?tab=repositories&q=&type=&language=Rust)
+[![Go](https://img.shields.io/badge/-Go-fff?&logo=Go)](https://github.com/adamalston?tab=repositories&q=&type=&language=Go)
+
+### Framework
+* Harthat, Truffle, Cosmos SDK, Cosmwasm
+* 🛢️ MySQL/ Postgresql/ Mongodb
+* :octocat: Git | Github
+
+# :blue_heart: Thanks for visit my Github !!!
