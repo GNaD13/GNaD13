@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Dang Vu 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm GnaD 👨‍💻
 - 🌱 I graduated from Ha Noi University Of Science And Technology.
 - 💡 I'm a Blockchain Engineer, working on Cosmos SDK, IBC, Cosmwasm
 - 🥇 Languages: Vietnamese, English
