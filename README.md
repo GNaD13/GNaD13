@@ -9,9 +9,4 @@
 [![Rust](https://img.shields.io/badge/-Rust-fff?&logo=Rust)](https://github.com/adamalston?tab=repositories&q=&type=&language=Rust)
 [![Go](https://img.shields.io/badge/-Go-fff?&logo=Go)](https://github.com/adamalston?tab=repositories&q=&type=&language=Go)
 
-### Framework
-* Harthat, Truffle, Cosmos SDK, Cosmwasm
-* 🛢️ MySQL/ Postgresql/ Mongodb
-* :octocat: Git | Github
-
 # :blue_heart: Thanks for visit my Github !!!
