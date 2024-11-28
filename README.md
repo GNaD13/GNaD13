@@ -6,7 +6,7 @@
 ### Languages
 [![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
 [![Java](https://img.shields.io/badge/-Java-fff?&logo=Java)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
-[![Rust](https://img.shields.io/badge/-Rust-fff?&logo=Rust)]
-[![Go](https://img.shields.io/badge/-Go-fff?&logo=Go)]
+![Rust](https://img.shields.io/badge/-Rust-fff?&logo=Rust)
+![Go](https://img.shields.io/badge/-Go-fff?&logo=Go)
 
 # :blue_heart: Thanks for visit my Github !!!
